@@ -1,0 +1,11 @@
+A
+B
+C
+D
+E
+<<<<<<< HEAD
+F by dev-1 branch
+G
+=======
+F
+>>>>>>> master
